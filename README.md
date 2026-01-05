@@ -86,19 +86,23 @@ This project is built using a modern, scalable, and production-ready technology 
 
 ## 📂 Project Structure
 
-Justly-AI/
+## 📂 Project Structure
+
+```text
+Justly-AI-India-s-AI-Powered-Legal-Assistant/
 │
 ├── src/
-│ ├── app/ # Next.js app router & pages
-│ ├── components/ # Reusable UI components
-│ ├── lib/ # Utility functions & API helpers
-│ ├── styles/ # Global styles
+│   ├── app/              # Next.js app router & pages
+│   ├── components/       # Reusable UI components
+│   ├── lib/              # Utility functions & API helpers
+│   ├── styles/           # Global styles
 │
-├── public/ # Static assets
-├── firebase.json # Firebase configuration
-├── package.json # Dependencies & scripts
-├── .env.local # Environment variables
+├── public/               # Static assets
+├── firebase.json         # Firebase configuration
+├── package.json          # Dependencies & scripts
+├── .env.local            # Environment variables
 └── README.md
+
 
 ---
 
