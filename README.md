@@ -86,8 +86,6 @@ This project is built using a modern, scalable, and production-ready technology 
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```text
 Justly-AI-India-s-AI-Powered-Legal-Assistant/
 │
